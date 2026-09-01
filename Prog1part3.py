@@ -1,3 +1,6 @@
+# name:kailei Higginson
+# email:kailei.higginson@und.edu
+
 twenties = int(input("Enter twenties: "))
 tens = int(input("Enter tens: "))
 fives = int(input("Enter fives: "))
