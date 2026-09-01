@@ -1,2 +1,2 @@
-# Kailei Higginson kailei.higginson@und.edu\
+# Kailei Higginson kailei.higginson@und.edu
 print("Kailei Higginson")
