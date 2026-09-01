@@ -8,4 +8,4 @@ city = input("Enter city: ")
 state = input("Enter state: ")
 zip_code = input("Enter zip code: ")
 
-print(f"{first_name} {last_name}\n{address}\n{city}, {state} {zip_code}")
+print(f"(first_name) (last_name)\n(address)\n(city), (state) (zip_code)")
