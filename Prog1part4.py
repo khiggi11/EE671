@@ -1,3 +1,6 @@
+# name:kailei Higginson
+# email:kailei.higginson@und.edu
+
 first_name = input("Enter first name: ")
 last_name = input("Enter last name: ")
 address = input("Enter address: ")
