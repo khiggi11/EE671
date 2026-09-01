@@ -1,3 +1,6 @@
+# name:kailei Higginson
+# email:kailei.higginson@und.edu
+
 total_pennies = int(input("Enter total pennies: "))
 
 quarters = total_pennies // 25
